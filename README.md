@@ -215,9 +215,7 @@ Switch configuration evidence is available in:
 
 ### Network Layout
 
-The repository also contains screenshots showing the overall network and device layout.
-
-[Full Lab Layout](./Rural-digital-access-network-screenshot/Full_lab_layout.png)
+The repository also contains screenshot showing the overall network and device layout.
 
 [Network Devices Layout](./Rural-digital-access-network-screenshot/Network_devices_layout.png)
 
